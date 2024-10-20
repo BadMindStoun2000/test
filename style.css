@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        background-color: hsl(204, 100%, 79%);
+        color: #0400ff95;
+    }
+    header h1 {
+        font-size: 70px;
+    }
+    header p {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    main {
+        max-width: 1200px;
+        margin: 20px auto;
+        padding: 20px;
+        background-color: rgb(53, 53, 53);
+        box-shadow: 0 4px rgb(208, 190, 255);
+    }
+    article {
+        padding: 20px;
+    }
+    article p {
+        font-size: 15px;
+        margin-bottom: 15px;
+        color: blanchedalmond;
+        border-bottom: 4px #22ff00;
+        padding-bottom: 7px;
+    }
+    header h1 {
+        font-size: 28px;
+        color: dodgerblue;
+    }
+    section p {
+        font-size: 15px;
+        color: rgb(0, 0, 0);
+    }
+    article h3 {
+        font-size: 28px;
+        margin-bottom: 10px;
+        color: blanchedalmond;
+        border-bottom: 2px dodgerblue;
+        padding-bottom: 5px;
+    }
+    section h2 {
+        font-size: 43px;
+        color: blanchedalmond;
+    }
